@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "JXyTkVxYKcsifIsoZUXLfUbe0/WbQDxuPE3cKf8lGlc=",
+  "Source": "FlightDocsSystem",
+  "BasePath": "_content/FlightDocsSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FlightDocsSystem\\wwwroot",
+      "Source": "FlightDocsSystem",
+      "ContentRoot": "D:\\JOBS\\ALTA (Back-End Intern)\\BT\\FlightDocs System\\FlightDocsSystem\\wwwroot\\",
+      "BasePath": "_content/FlightDocsSystem",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
